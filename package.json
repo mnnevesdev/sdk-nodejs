@@ -42,7 +42,7 @@
     "sinon": "1.17.7"
   },
   "dependencies": {
-    "ajv": "^6.12.3",
+    "ajv": "^8.18.0",
     "bluebird": "3.4.7",
     "moment": "^2.29.4",
     "request": "^2.88.0",
